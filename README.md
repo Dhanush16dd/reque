@@ -48,4 +48,11 @@ python manage.py runserver
 
 > ⚠ Then, the development server will be started at http://127.0.0.1:8000/
 
+<<<<<<< HEAD
 #
+=======
+#
+
+
+
+>>>>>>> 25323d1472875bb6b804e72a8bfaf88a7c111e24
